@@ -4,6 +4,7 @@ prix=random.randint (0,100)
 
 prix1 = int(input("Deviner le prix :"))
 
+
 while prix != prix1 :
 
     if prix < prix1 :
