@@ -110,7 +110,7 @@ if __name__ == '__main__':
 else:
     print("Désolé la blockchain n'est pas valide:", bchain.BlockchainValid())
 
-#Ajouter une transaction de la blockchain
+
 
         
 
