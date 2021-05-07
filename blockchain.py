@@ -107,10 +107,6 @@ if __name__ == '__main__':
 
     bchain.affiche()
 
-else:
-    print("Désolé la blockchain n'est pas valide:", bchain.BlockchainValid())
-
-
 
         
 
